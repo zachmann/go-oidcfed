@@ -5,7 +5,7 @@ go 1.19
 require (
 	github.com/adam-hanna/arrayOperations v1.0.1
 	github.com/fatih/structs v1.1.0
-	github.com/google/uuid v1.4.0
+	github.com/google/uuid v1.6.0
 	github.com/lestrrat-go/jwx v1.2.27
 	github.com/luci/go-render v0.0.0-20160219211803-9a04cc21af0f
 	github.com/patrickmn/go-cache v2.1.0+incompatible
